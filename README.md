@@ -12,8 +12,11 @@
 
 # Screenshots
 ## Input Screen
-[<img src="" />]
+<img src="Screenshots/Screenshot (0).png" />
 
 
 ## Output Screen-
-[<img src="" />]
+<img src="Screenshots/Screenshot (1).png" />
+
+
+### Give It a Star if you liked the project 
