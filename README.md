@@ -1,4 +1,4 @@
-# The Guide Web Application with Django #
+<div align="center"> <img src="Screenshots/main.jpeg" width="500" height="250"> </center> </div>
 
 ## link - https://the-guide-project.herokuapp.com/ ##
 
